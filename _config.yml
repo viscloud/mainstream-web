@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: Mainstream
+description: Dynamic Stem-Sharing for Multi-Tenant Video Processing
+repository_url: https://github.com/angelajiang/mainstream/
+repository_name: Mainstream
+owner_url: http://istc-vcs.cmu.edu/
+owner_name: Intel Science and Technology Center for Visual Cloud Systems
+paper_url: https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf
