@@ -4,6 +4,8 @@ Mainstream is a video analysis system that jointly adapts concurrent
 applications sharing fixed edge resources to maximize aggregate application
 result quality.
 
+<span style='font-weight: bold'><span style='color:red;'>Paper</span>: [https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)</span>
+
 # Why Mainstream?
 
 Many practitioners use _transfer learning_ and fine-tune a pre-trained model for
